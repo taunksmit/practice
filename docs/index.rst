@@ -1,6 +1,14 @@
 smit
 =====
 
+.. toctree::
+   :maxdepth: 2
+   :glob:
+
+   *
+
+
+
 # Dillinger
 ## _The Last Markdown Editor, Ever_
 
